@@ -31,11 +31,16 @@ README.md<br />
 ● File README berisi desain program, penjelasan alur, dan dokumentasi saat
 program dijalankan (screenshot & record).<br />
 
-&nbsp; x
-
 # Format janji
 Saya Villeneuve Andhira Suwandhi NIM 2108067 mengerjakan Latihan 9<br />
 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.<br />
 Aamiin.<br />
+
+# Program
+- Run program, masuk ke halaman utama (landing page)<br />
+- klik button 'enter'<br />
+- muncul data hunian<br />
+- user dapat melihat detail dengan klik button di sebelah kanan barisnya<br />
+- user juga dapat keluar dari program dengan menekan tombol 'exit'<br />
 
 # Documentation () {}
