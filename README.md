@@ -44,3 +44,6 @@ Aamiin.<br />
 - user juga dapat keluar dari program dengan menekan tombol 'exit'<br />
 
 # Documentation () {}
+landing page, details, exit.
+https://github.com/villeneuveandhira/LP9DPBO2023/assets/101118033/e42f7d1b-ca40-40ee-a15b-ebc7e9f94313
+
