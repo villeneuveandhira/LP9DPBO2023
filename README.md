@@ -2,7 +2,7 @@ NIM               : 2108067<br />
 Nama              : Villeneuve Andhira Suwandhi<br />
 Program Studi     : Ilmu Komputer C1 2021<br />
 
-# LATIHAN1DPBO2023
+# LATIHAN9DPBO2023
 Latihan Praktikum tidak menggunakan Database, tapi harus mengirim bukti<br />
 screenshot menjalankan contoh kode yang dikirim.<br />
 Spesifikasi:
